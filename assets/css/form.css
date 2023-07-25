@@ -1,0 +1,61 @@
+.booki-form-all-search {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.booki-form-box-search {
+    width: 50px;
+    height: 49px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #F2F2F2;
+    background: #F2F2F2;
+    border-radius: 15px 00px 00px 15px;
+}
+
+.booki-form-box-text {
+    width: 252px;
+    height: 49px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+}
+
+.booki-form-text-recherche {
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    align-items: center;
+    position: absolute;
+    border: none;
+    outline: none;
+}
+
+.booki-form-button {
+    width: 132px;
+    height: 49px;
+    display: flex;
+    justify-content: center;
+    background: #0065FC;
+    border: 1px solid #0065FC;
+    border-radius: 0px 15px 15px 0px;
+    align-items: center;
+}
+
+.booki-form-button-text {
+    background-color: #0065FC;
+    border: none;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+}

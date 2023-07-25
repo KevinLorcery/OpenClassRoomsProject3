@@ -1,0 +1,67 @@
+.booki-text-type-filters {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding-left: 50px;
+    padding-right: 50px;
+    gap: 15px;
+}
+
+.booki-text-filters {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    color: #000;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.booki-text-filters {
+    font-family: Raleway;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    color: black;
+}
+
+.booki-all-box-filters {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.booki-box-filters {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #D9D9D9;
+    border-radius: 25px;
+    height: 50px;
+    padding-left: 19px;
+    padding-right: 19px;
+}
+
+.booki-box-filters span {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px; 
+    color: black;
+}
+
+.booki-text-type-filters i {
+    width: 22px;
+    height: 18px;
+    color: #0065FC;
+}
+
+.booki-box-filters:hover {
+    background: #DEEBFF;
+}
