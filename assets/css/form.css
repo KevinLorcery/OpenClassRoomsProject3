@@ -9,8 +9,8 @@
 }
 
 .booki-form-box-search {
-    width: 50px;
-    height: 49px;
+    width: 48px;
+    height: 47px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +20,7 @@
 }
 
 .booki-form-box-text {
-    width: 252px;
+    width: 195px;
     height: 49px;
     display: flex;
     justify-content: center;
@@ -33,6 +33,7 @@
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
+    width: 147px;
     align-items: center;
     position: absolute;
     border: none;
@@ -40,7 +41,7 @@
 }
 
 .booki-form-button {
-    width: 132px;
+    width: 130px;
     height: 49px;
     display: flex;
     justify-content: center;
