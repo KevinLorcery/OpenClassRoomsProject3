@@ -22,4 +22,70 @@
     .booki-info-text {
         font-weight: 400;
     }
+
+    .booki-main-hebergements {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .booki-article {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        padding: 30px;
+        background-color: #F2F2F2;
+        width: 93.5%;
+        min-height: 551px;
+        border-radius: 15px;
+    }
+
+    .booki-article-card {
+        width: 100%;
+    }
+
+    .booki-article-hebergement a {
+        width: 30%;
+    }
+
+    .booki-aside {
+        flex-direction: column;
+        width: 93.5%;
+        height: 252px;
+    }
+
+    .booki-aside-all-card {
+        flex-direction: row;
+        gap: 20px;
+    }
+
+    .booki-aside-all-card a {
+        width: 33%;
+    }
+
+    .booki-aside-card {
+        width: 100%;
+        height: 146px;
+    }
+
+    .booki-aside-card-stars {
+        margin-top: 50px;
+    }
+
+    .booki-activities-card {
+        width: 100%;
+        max-height: 270px;
+    }
+
+    .booki-activities-all-card a {
+        width: 25%;
+    }
+
+    .booki-activities-card-img {
+        width: 100%;
+        height: 200px;
+    }
+
+    .booki-footer {
+        width: 90%;
+    }
 }

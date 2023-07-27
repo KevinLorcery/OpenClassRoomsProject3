@@ -30,6 +30,12 @@
     box-shadow: 0px 3px 15px 0px rgba(0, 0, 0, 0.10);
 }
 
+.booki-aside-all-card {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
 .booki-aside-card-content {
     display: flex;
     flex-direction: column;
